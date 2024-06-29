@@ -1,0 +1,209 @@
+Test number 1 starts.
+Welcome to the Student Grade Management System!
+1. Add a new student
+2. Display all students
+3. Calculate a student's average grade        
+4. Find the top performing student
+5. Exit
+Please enter your choice:
+Enter student name:
+Enter grades:
+Student Alice added successfully!
+1. Add a new student
+2. Display all students
+3. Calculate a student's average grade        
+4. Find the top performing student
+5. Exit
+Please enter your choice:
+Alice: 85.00, 90.00, 78.00
+1. Add a new student
+2. Display all students
+3. Calculate a student's average grade        
+4. Find the top performing student
+5. Exit
+Please enter your choice:
+Exiting the program. Goodbye!
+Test number 1 ended.
+-----------------------------------------------
+Test number 2 starts.
+Welcome to the Student Grade Management System!
+1. Add a new student
+2. Display all students
+3. Calculate a student's average grade        
+4. Find the top performing student
+5. Exit
+Please enter your choice:
+Enter student name:
+Enter grades: 
+Student Alice added successfully!
+1. Add a new student
+2. Display all students
+3. Calculate a student's average grade        
+4. Find the top performing student
+5. Exit
+Please enter your choice:
+Enter student name:
+Enter grades:
+Student Bob added successfully!
+1. Add a new student
+2. Display all students
+3. Calculate a student's average grade        
+4. Find the top performing student
+5. Exit
+Please enter your choice:
+Top performing student: Bob with an average grade of 100.00
+1. Add a new student
+2. Display all students
+3. Calculate a student's average grade        
+4. Find the top performing student
+5. Exit
+Please enter your choice:
+Enter student name:
+Enter grades:
+Student Bob added successfully!
+1. Add a new student
+2. Display all students
+3. Calculate a student's average grade        
+4. Find the top performing student
+5. Exit
+Please enter your choice:
+Top performing student: Alice with an average grade of 84.33
+1. Add a new student
+2. Display all students
+3. Calculate a student's average grade        
+4. Find the top performing student
+5. Exit
+Please enter your choice:
+Exiting the program. Goodbye!
+Test number 2 ended.
+-----------------------------------------------
+Test number 3 starts.
+Welcome to the Student Grade Management System!
+1. Add a new student
+2. Display all students
+3. Calculate a student's average grade        
+4. Find the top performing student
+5. Exit
+Please enter your choice:
+No student records available.
+1. Add a new student
+2. Display all students
+3. Calculate a student's average grade        
+4. Find the top performing student
+5. Exit
+Please enter your choice:
+Enter student name:
+Enter grades:
+Student Alice added successfully!
+1. Add a new student
+2. Display all students
+3. Calculate a student's average grade        
+4. Find the top performing student
+5. Exit
+Please enter your choice:
+Enter student name:
+Enter grades:
+Student Bob added successfully!
+1. Add a new student
+2. Display all students
+3. Calculate a student's average grade        
+4. Find the top performing student
+5. Exit
+Please enter your choice:
+Enter student name:
+Average grade for Bob: 76.83
+1. Add a new student
+2. Display all students
+3. Calculate a student's average grade        
+4. Find the top performing student
+5. Exit
+Please enter your choice:
+Enter student name:
+Average grade for Alice: 84.33
+1. Add a new student
+2. Display all students
+3. Calculate a student's average grade        
+4. Find the top performing student
+5. Exit
+Please enter your choice:
+Alice: 85.00, 90.00, 78.00
+Bob: 70.50, 100.00, 60.00
+1. Add a new student
+2. Display all students
+3. Calculate a student's average grade        
+4. Find the top performing student
+5. Exit
+Please enter your choice:
+Top performing student: Alice with an average grade of 84.33
+1. Add a new student
+2. Display all students
+3. Calculate a student's average grade        
+4. Find the top performing student
+5. Exit
+Please enter your choice:
+Exiting the program. Goodbye!
+Test number 3 ended.
+-----------------------------------------------
+Test number 4 starts.
+Welcome to the Student Grade Management System!
+1. Add a new student
+2. Display all students
+3. Calculate a student's average grade        
+4. Find the top performing student
+5. Exit
+Please enter your choice:
+Enter student name:
+Enter grades:
+Student Alice added successfully!
+1. Add a new student
+2. Display all students
+3. Calculate a student's average grade        
+4. Find the top performing student
+5. Exit
+Please enter your choice:
+Enter student name:
+No student found with name Bob.
+1. Add a new student
+2. Display all students
+3. Calculate a student's average grade        
+4. Find the top performing student
+5. Exit
+Please enter your choice:
+Enter student name:
+Enter grades:
+Invalid grades.
+1. Add a new student
+2. Display all students
+3. Calculate a student's average grade        
+4. Find the top performing student
+5. Exit
+Please enter your choice:
+Enter student name:
+No student found with name Bob.
+1. Add a new student
+2. Display all students
+3. Calculate a student's average grade        
+4. Find the top performing student
+5. Exit
+Please enter your choice:
+Enter student name:
+Enter grades:
+Student Bob added successfully!
+1. Add a new student
+2. Display all students
+3. Calculate a student's average grade        
+4. Find the top performing student
+5. Exit
+Please enter your choice:
+Alice: 85.00, 90.00, 78.00
+Bob: 70.50, 100.00, 80.00
+1. Add a new student
+2. Display all students
+3. Calculate a student's average grade        
+4. Find the top performing student
+5. Exit
+Please enter your choice:
+Exiting the program. Goodbye!
+Test number 4 ended.
+-----------------------------------------------
+All tests have ended.
